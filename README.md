@@ -86,4 +86,4 @@ This tool is intended for academic research purposes only. Users are responsible
 
 ## Contact
 
-Yuanyuan Wu — florencewu103@gmail.com
+florencewu103@gmail.com
